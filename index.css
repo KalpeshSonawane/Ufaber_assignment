@@ -1,0 +1,154 @@
+.myButton {
+	border-radius: 42px;
+	border: 1px solid #1d2124;
+	cursor: pointer;
+	color: #666666;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+.myButton:hover {
+	background-color: #f6f6f6;
+}
+
+.myButton:active {
+	position: relative;
+	top: 1px;
+}
+
+.green-color {
+	color: rgb(112 252 66 / 63%);
+	font-size: 20px;
+}
+
+.a {
+	font-size: 15px;
+}
+
+.s {
+	font-family: serif;
+	font-size: 38px;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+	display: inline-block;
+	padding-right: .5rem;
+	color: #6c757d;
+	content: "";
+}
+
+.breadcrumb {
+	margin-bottom: 0;
+	background-color: #f8f9fa;
+}
+
+.myButton1 {
+	background-color: #f0e09e;
+	border-radius: 5px;
+	border: 1px solid #566963;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.myButton2 {
+	background-color: #ffff;
+	border-radius: 5px;
+	border: 1px solid #ffff;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 11px 23px;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.card {
+	border: none;
+	background-color: #f8f9fa;
+}
+
+.f {
+	font-size: 14px;
+}
+
+.myButton3 {
+	box-shadow: inset 0px 1px 0px 0px #ffffff;
+	background-color: #ffffff;
+	border-radius: 42px;
+	border: 1px solid #dcdcdc;
+	display: inline-block;
+	cursor: pointer;
+	color: #666666;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 8px 18px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #ffffff;
+}
+
+.myButton3:hover {
+	background-color: #f6f6f6;
+}
+
+.myButton3:active {
+	position: relative;
+	top: 1px;
+}
+
+.myButton4 {
+	box-shadow: inset 0px 1px 0px 0px #cf866c;
+	background-color: #ff085a;
+	border-radius: 9px;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 9px 69px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #854629;
+}
+
+.myButton4:hover {
+	background-color: #dc3545;
+}
+
+.myButton4:active {
+	position: relative;
+	top: 1px;
+}
+
+.myButton5 {
+	background-color: transparent;
+	border-radius: 13px;
+	border: 1px solid #dc3545;
+	display: inline-block;
+	cursor: pointer;
+	color: #dc3545;
+	font-family: Arial;
+	font-size: 17px;
+	padding: 9px 20px;
+	text-decoration: none;
+}
+
+.myButton5:hover {
+	background-color: transparent;
+}
+
+.myButton5:active {
+	position: relative;
+	top: 1px;
+}
